@@ -61,6 +61,9 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\NetworkCommandLine.cs" />
     <Compile Include="Assets\Scripts\HelloWorldPlayer.cs" />
+    <Compile Include="Assets\Scripts\NetworkTransformTest.cs" />
+    <Compile Include="Assets\Scripts\NetworkVariableTest.cs" />
+    <Compile Include="Assets\Scripts\RpcTest.cs" />
     <Compile Include="Assets\Scripts\HelloWorldManager.cs" />
   </ItemGroup>
   <ItemGroup>

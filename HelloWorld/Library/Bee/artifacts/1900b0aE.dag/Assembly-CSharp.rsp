@@ -372,6 +372,9 @@
 "Assets/Scripts/HelloWorldManager.cs"
 "Assets/Scripts/HelloWorldPlayer.cs"
 "Assets/Scripts/NetworkCommandLine.cs"
+"Assets/Scripts/NetworkTransformTest.cs"
+"Assets/Scripts/NetworkVariableTest.cs"
+"Assets/Scripts/RpcTest.cs"
 -langversion:9.0
 
 /deterministic
